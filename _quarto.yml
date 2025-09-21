@@ -4,15 +4,15 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
-  favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  title: "Qibin Hou"
+  site-url: https://houqb.github.io
+  favicon: images/icon.jpg
+  repo-url: https://github.com/houqb/houqb.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      [Group page](https://mmcheng.net/)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
