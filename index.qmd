@@ -1,6 +1,6 @@
 ---
 title: "Qibin"
-image: images/qibin.jpg
+image: images/icon.jpg
 about:
   id: hero-heading
   template: trestles
